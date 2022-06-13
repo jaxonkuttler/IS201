@@ -1,0 +1,61 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+  .subheader {
+    float: right;
+    padding-right: 20px;
+}
+.padding {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.paddingleft {
+  padding-left: 50px;
+}
+.nav {
+  padding: 20px;
+}
+.justify {
+  text-align: justify ;
+}
+
+.background {
+  background-color: rgba(172, 169, 170, 0.483);
+}
+
+a {
+  color: rgb(34, 41, 47);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.norm {
+  font-weight: normal;
+}
+.size {
+    width: 50%; 
+    height: 50%;
+}
+.tabfont {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(36, 33, 33);
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 10px;
+    font-size: 15px;
+    color: #151514;
+    text-align: center;
+}
